@@ -1,4 +1,4 @@
 output "output" {
   description = "The string repeated"
-  value       = "The input was ${var.input}"
+  value       = "This is on a branch called ASDF-123-some-changes: ${var.input}"
 }
