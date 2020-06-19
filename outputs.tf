@@ -1,4 +1,4 @@
 output "output" {
   description = "The string repeated"
-  value       = "The input was ${var.input}"
+  value       = "The input is ${var.input}"
 }
